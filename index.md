@@ -8,7 +8,7 @@ Sparkle develops, operates and maintains in the form of DAO, and is committed to
 
 # Flow
 
-![images/Sparkle_Biz_Model.jpg]
+![flow](images/Sparkle_Biz_Model.jpg)
 
 # Roadmap
 
